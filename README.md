@@ -49,7 +49,7 @@ __Coach__
   Background: Colegio San Vicente de Paúl
   Born:
 
-Engineering materials
+Components of the robot
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
