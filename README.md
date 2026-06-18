@@ -6,6 +6,23 @@ Our team name, Odyssey, embodies our vision of engineering as an epic journey. J
 
 - Open Challenge:
 - Obstacle Challenge:
+With our vision to “Embarking on challenges, exploring innovation, achieving excellence.”
+
+Table of contents
+====
+-
+-
+-
+
+Complete Documentation Structure
+====
+DETAILED TECHNICAL DOCUMENTATION AVAILABLE
+====
+Each folder contains comprenhensive README documentation.
+| Folder | Technical Content | Detailed Documentation |
+|--------------|--------------|--------------|
+| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
 
 Engineering materials
 ====
