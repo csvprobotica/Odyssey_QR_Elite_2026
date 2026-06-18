@@ -1,4 +1,4 @@
-## HypeTech WRO 2025
+## 🛻 WRO 2025 Future Engineers - Odyssey
 The HypeTech team is integrated by Guillermo Espinosa, Angel Herrera and Jesus Murillo, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
 
 Engineering materials
