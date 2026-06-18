@@ -3,10 +3,10 @@ Welcome to the GitHub repository of Team Odyssey, proudly competing in the World
 We are a team of Panamenian students  of WRO 2026.
 
 Our team name, Odyssey, embodies our vision of engineering as an epic journey. Just as an odyssey represents a long and adventurous voyage filled with challenges and discoveries, our path in robotics is one of exploration, resilience, and innovation. We see every project as a step into the unknown, where curiosity drives us forward and obstacles become opportunities to grow. The name “Odyssey” reflects our commitment to push boundaries, to navigate uncharted territories of technology, and to emerge stronger with each challenge. Together, as Odyssey Team, we embrace the spirit of adventure in pursuit of engineering excellence.
+With our vision to “Embarking on challenges, exploring innovation, achieving excellence.”
 
 - Open Challenge:
 - Obstacle Challenge:
-With our vision to “Embarking on challenges, exploring innovation, achieving excellence.”
 
 Table of contents
 ====
@@ -23,6 +23,10 @@ Each folder contains comprenhensive README documentation.
 |--------------|--------------|--------------|
 | Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
 | Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+
 
 The Team
 ====
@@ -32,10 +36,10 @@ insert (picture)
 
 __Members__
 - Irene Vásquez (Team Leader)
-  _Role:_
-  _Background:_ Colegio San Vicente de Paúl
-  _Contact:_ irenevasquezcsvp@gmail.com
-  _Born:_ 2008, Veraguas
+  * _Role:_
+  * _Background:_ Colegio San Vicente de Paúl
+  * _Contact:_ irenevasquezcsvp@gmail.com
+  * _Born:_ 2008, Veraguas
 - Allan Aguilar:
 - Leonel:
 
