@@ -40,29 +40,38 @@ __Members__
   * _Background:_ Colegio San Vicente de Paúl
   * _Contact:_ irenevasquezcsvp@gmail.com
   * _Born:_ 2008, Veraguas
+
 - Allan Aguilar:
+  *
+  *
+  *
+
 - Leonel:
+  *
+  *
+  *
 
 __Coach__
 - Pedro Corrales
-  Role: Team Coach
-  Background: Colegio San Vicente de Paúl
-  Born:
+  * _Role:_ Team Coach
+  * _Background:_ Colegio San Vicente de Paúl
+  * _Born:_
 
 Components of the robot
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
+This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2026.
 
-Elements of our robot:
-* 1 LEGO Mindstorms EV3 brick 45500
-* 1 Rechargeable battery DC 2050mAh 45501
-* 1 EV3 L-Servo Motor 45502
-* 1 EV3 M-Servo Motor 45503
-* 2 Technic Distance Sensor 45504
-* 1 Technic Color Sensor 45506
-* 1 Gyroscope Sensor 45505
-* 3D modeling designs for assembly
+__Elements of our robot:__
+
+| Folder | Technical Content | Detailed Documentation |
+|--------------|--------------|--------------|
+| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+
 
 ## Content
 
