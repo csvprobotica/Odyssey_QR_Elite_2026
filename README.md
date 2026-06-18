@@ -4,6 +4,9 @@ We are a team of Panamenian students who have engineered a compact, innovative, 
 
 Our team name, Odyssey, embodies our vision of engineering as an epic journey. Just as an odyssey represents a long and adventurous voyage filled with challenges and discoveries, our path in robotics is one of exploration, resilience, and innovation. We see every project as a step into the unknown, where curiosity drives us forward and obstacles become opportunities to grow. The name “Odyssey” reflects our commitment to push boundaries, to navigate uncharted territories of technology, and to emerge stronger with each challenge. Together, as Odyssey Team, we embrace the spirit of adventure in pursuit of engineering excellence.
 
+- Open Challenge:
+- Obstacle Challenge:
+
 Engineering materials
 ====
 
