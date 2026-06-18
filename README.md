@@ -42,14 +42,16 @@ __Members__
   * _Born:_ 2008, Veraguas
 
 - Allan Aguilar:
-  *
-  *
-  *
+  * _Role:_
+  * _Background:_
+  * _Contact:_
+  * _Born:_
 
 - Leonel:
-  *
-  *
-  *
+  * _Role:_
+  * _Background:_
+  * _Contact:_
+  * _Born:_
 
 __Coach__
 - Pedro Corrales
