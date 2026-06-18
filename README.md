@@ -1,5 +1,8 @@
 ## 🛻 WRO 2025 Future Engineers - Odyssey
-The HypeTech team is integrated by Guillermo Espinosa, Angel Herrera and Jesus Murillo, who represent Colegio San Vicente de Paúl, Santiago in this Future Engineers competition.
+Welcome to the GitHub repository of Team Odyssey, proudly competing in the World Robot Olympiad™ (WRO®) Future Engineers 2026 category.  
+We are a team of Panamenian students who have engineered a compact, innovative, and fully autonomous self-driving vehicle designed to meet the dynamic challenges of WRO 2026.
+
+Our team name, Odyssey Team, embodies our vision of engineering as an epic journey. Just as an odyssey represents a long and adventurous voyage filled with challenges and discoveries, our path in robotics is one of exploration, resilience, and innovation. We see every project as a step into the unknown, where curiosity drives us forward and obstacles become opportunities to grow. The name “Odyssey” reflects our commitment to push boundaries, to navigate uncharted territories of technology, and to emerge stronger with each challenge. Together, as Odyssey Team, we embrace the spirit of adventure in pursuit of engineering excellence.
 
 Engineering materials
 ====
