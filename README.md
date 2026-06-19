@@ -1,4 +1,4 @@
-## 👾 WRO 2025 Future Engineers - Odyssey
+## 👾 WRO 2026 Future Engineers - Odyssey
 <img width="1391" height="1131" alt="ODYSSEY TEAM LOGO" src="https://github.com/user-attachments/assets/0502794b-d410-475c-8929-6cc786ddaf51" />
 
 ## READY FOR COMPETITIONS 2026
