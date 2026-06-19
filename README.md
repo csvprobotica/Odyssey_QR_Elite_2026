@@ -37,20 +37,17 @@ insert (picture)
 insert (picture)
 
 __Members__
-- Irene Vásquez (Team Leader)
-  * _Role:_
+- Irene Vásquez
   * _Background:_ Colegio San Vicente de Paúl
   * _Contact:_ irenevasquezcsvp@gmail.com
   * _Born:_ 2008, Veraguas
 
-- Allan Aguilar:
-  * _Role:_
+- Allan Aguilar
   * _Background:_
   * _Contact:_
   * _Born:_
 
-- Leonel:
-  * _Role:_
+- Leonel
   * _Background:_
   * _Contact:_
   * _Born:_
