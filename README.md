@@ -1,4 +1,4 @@
-## 🛻 WRO 2025 Future Engineers - Odyssey
+## 👾 WRO 2025 Future Engineers - Odyssey
 <img width="1391" height="1131" alt="ODYSSEY TEAM LOGO" src="https://github.com/user-attachments/assets/0502794b-d410-475c-8929-6cc786ddaf51" />
 
 ## READY FOR COMPETITIONS 2026
@@ -17,7 +17,7 @@ Table of contents
 -
 -
 
-Complete Documentation Structure
+📄 Complete Documentation Structure
 ====
 DETAILED TECHNICAL DOCUMENTATION AVAILABLE
 ====
@@ -31,7 +31,7 @@ Each folder contains comprenhensive README documentation.
 | Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
 
 
-The Team
+👥 THE TEAM
 ====
 Odyssey Team is formed by passionate students aspiring to become future engineers, guided by a coach. This is our first year competing in the WRO Future Engineers category, and each member contributes unique expertise to the project. 
 insert (picture)
@@ -59,7 +59,7 @@ __Coach__
   * _Background:_ Colegio San Vicente de Paúl
   * _Born:_
 
-Components of the robot
+🎯 COMPONENTS OF THE ROBOT
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2026.
