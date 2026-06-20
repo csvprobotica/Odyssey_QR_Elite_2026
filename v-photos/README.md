@@ -1,22 +1,19 @@
 Vehicle's photos
 ====
 
-This directory contains photographs from all angles of the robot.
+This folder contains photos of Team Odyssey's WRO 2026 Future Engineers robot, showcasing its design and engineering.
 
-## Front
-![1](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Front.jpg)
+## Front View
+<img width="1600" height="1200" alt="Front_view" src="https://github.com/user-attachments/assets/16e4a28a-da26-439d-ab66-5e943b748f8a" />
 
-## Back
-![2](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Back.jpg)
+## Rear View
+<img width="1600" height="1200" alt="Rear_view" src="https://github.com/user-attachments/assets/ed39d11b-802d-4d7a-920c-0e4a2c01743c" />
 
-## Left
-![3](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Left.jpg)
+## Top View
+<img width="1600" height="1200" alt="Top_view" src="https://github.com/user-attachments/assets/79bd108e-8fa1-4888-b3a2-116594a1e779" />
 
-## Right
-![4](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Right.jpg)
+## Left View
+<img width="1600" height="1200" alt="Left_view" src="https://github.com/user-attachments/assets/585c1e09-9e53-44f2-bf32-2eed6e9c9ac5" />
 
-## Top
-![5](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Top.jpg)
-
-## Bottom
-![6](https://github.com/csvprobotica/HypeTech/blob/main/v-photos/V1/HypeTech-Bottom.jpg)
+## Right View
+<img width="1600" height="1200" alt="Right_view" src="https://github.com/user-attachments/assets/b973f1eb-7236-4ec0-a71c-c3aeb514f7eb" />
