@@ -69,10 +69,13 @@ __Elements of our robot:__
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
 | <img width="218" height="195" alt="Captura de pantalla 2026-06-19 192013" src="https://github.com/user-attachments/assets/7fa64fa6-56ba-4920-9961-54fe46f395bb" /> | Fila 1 Col 2 | Fila 1 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
+| <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/45693253-1d50-4c1d-8224-06d5855671ae" /> | Fila 2 Col 2 | Fila 2 Col 3 |
+| <img width="176" height="174" alt="image" src="https://github.com/user-attachments/assets/ab8529d3-1e2d-4835-81cb-792ff02cb0c8" /> | Fila 2 Col 2 | Fila 2 Col 3 |
+| <img width="288" height="192" alt="image" src="https://github.com/user-attachments/assets/2e7c3e37-b73f-4e9a-a5fc-0ad49e23df09" /> | Fila 2 Col 2 | Fila 2 Col 3 |
+| <img width="212" height="229" alt="image" src="https://github.com/user-attachments/assets/c1ec9f75-01b8-435b-ac36-bae16171b76c" /> | Fila 2 Col 2 | Fila 2 Col 3 |
+| <img width="135" height="130" alt="image" src="https://github.com/user-attachments/assets/24de71b7-7560-423b-8d2f-dcb212fed6e8" /> |
+| <img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/05de7033-4039-4728-91c0-ac1192fabdaf" /> | 
+|
 
 
 ## Content
