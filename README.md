@@ -44,14 +44,14 @@ __Members__
   * _Born:_ 2008, Veraguas
 
 - Allan Aguilar
-  * _Background:_
-  * _Contact:_
-  * _Born:_
+  * _Background:_ Colegio San Vicente de Paúl
+  * _Contact:_ allanplayer20@gmail.com
+  * _Born:_ 2012, Panama
 
 - Leonel
-  * _Background:_
-  * _Contact:_
-  * _Born:_
+  * _Background:_ Colegio San Vicente de Paúl
+  * _Contact:_ irenevasquezcsvp@gmail.com
+  * _Born:_ 2010
 
 __Coach__
 - Pedro Corrales
@@ -68,7 +68,7 @@ __Elements of our robot:__
 
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
-| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
+| <img width="218" height="195" alt="Captura de pantalla 2026-06-19 192013" src="https://github.com/user-attachments/assets/7fa64fa6-56ba-4920-9961-54fe46f395bb" /> | Fila 1 Col 2 | Fila 1 Col 3 |
 | Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
 | Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
 | Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
