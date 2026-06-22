@@ -26,7 +26,7 @@ Each folder contains comprenhensive README documentation.
 |--------------|--------------|--------------|
 | Models | Fila 1 Col 2 | [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
 | Other | Fila 2 Col 2 | [`other`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
-| Schemes | Fila 2 Col 2 | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes)) |
+| Schemes | Fila 2 Col 2 | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes) |
 | src | Fila 2 Col 2 | [`src`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/src) |
 | t-photos | Fila 2 Col 2 | [`t-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/t-photos) |
 | v-photos | fila 2 colu 2 | [`v-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/v-photos)|
