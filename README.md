@@ -24,8 +24,8 @@ DETAILED TECHNICAL DOCUMENTATION AVAILABLE
 Each folder contains comprenhensive README documentation.
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
-| Models | Mechanical Engineering • 3D CAD designs • Assembly instructions | [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
-| Other | Process diagram represents all the logical processes to be performed by the robot on the track. | [`other`(https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
+| Models | Mechanical Engineering | [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
+| Other | Process diagram represents all the logical processes to be performed by the robot on the track. |[`other`(https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
 | Schemes | Component schematics | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes) |
 | src | Block system using Lego EV3-G Blocks program | [`src`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/src) |
 | t-photos | Photos about our team | [`t-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/t-photos) |
