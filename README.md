@@ -24,7 +24,10 @@ DETAILED TECHNICAL DOCUMENTATION AVAILABLE
 Each folder contains comprenhensive README documentation.
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
-| Models | Fila 1 Col 2 | [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
+| Models | Mechanical Engineering
+• 3D CAD designs
+• Assembly instructions 
+| [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
 | Other | Fila 2 Col 2 | [`other`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
 | Schemes | Fila 2 Col 2 | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes) |
 | src | Fila 2 Col 2 | [`src`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/src) |
