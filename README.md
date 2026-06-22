@@ -24,16 +24,13 @@ DETAILED TECHNICAL DOCUMENTATION AVAILABLE
 Each folder contains comprenhensive README documentation.
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
-| Models | Mechanical Engineering
-• 3D CAD designs
-• Assembly instructions 
-| [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
-| Other | Fila 2 Col 2 | [`other`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
-| Schemes | Fila 2 Col 2 | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes) |
-| src | Fila 2 Col 2 | [`src`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/src) |
-| t-photos | Fila 2 Col 2 | [`t-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/t-photos) |
-| v-photos | fila 2 colu 2 | [`v-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/v-photos)|
-| video | vidsfksldnfms | [`video`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/video)
+| Models | Mechanical Engineering • 3D CAD designs • Assembly instructions | [`models`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/models)|
+| Other | Process diagram represents all the logical processes to be performed by the robot on the track. | [`other`(https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/other) |
+| Schemes | Component schematics | [`Schemes`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/schemes) |
+| src | Block system using Lego EV3-G Blocks program | [`src`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/src) |
+| t-photos | Photos about our team | [`t-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/t-photos) |
+| v-photos | Photos of Odyssey´s robot | [`v-photos`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/v-photos)|
+| video | Operation of our robot | [`video`](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/tree/main/video)
 
 👥 THE TEAM
 ====
