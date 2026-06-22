@@ -13,9 +13,9 @@ With our vision to “Embarking on challenges, exploring innovation, achieving e
 
 Table of contents
 ====
--
--
--
+- Complete Documentation Structure
+- The Team
+- Components of the robot
 
 📄 Complete Documentation Structure
 ====
