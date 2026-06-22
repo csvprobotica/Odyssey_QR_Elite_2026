@@ -71,7 +71,7 @@ __Elements of our robot:__
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
 | <img width="218" height="195" alt="Captura de pantalla 2026-06-19 192013" src="https://github.com/user-attachments/assets/7fa64fa6-56ba-4920-9961-54fe46f395bb" /> | Provides movement and power to our robot. It rotates wheels or mechanisms with precise speed and angle control. |
-| <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/45693253-1d50-4c1d-8224-06d5855671ae" /> | Detects colors, reflected light, and ambient light. Used for color recognition. |
+| <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/45693253-1d50-4c1d-8224-06d5855671ae" /> | When encountering a red or green object in its path, the robot's control system activates an evasion routine to avoid these objects, ensuring safe and uninterrupted navigation. |
 | <img width="176" height="174" alt="image" src="https://github.com/user-attachments/assets/ab8529d3-1e2d-4835-81cb-792ff02cb0c8" /> | The robot features several strategically placed proximity sensors around its structure. These sensors enable the detection of walls and other obstacles, ensuring that the robot can navigate without collisions. The sensors work by measuring the distance to nearby objects and providing real-time data to the robot's control system. |
 | <img width="288" height="192" alt="image" src="https://github.com/user-attachments/assets/2e7c3e37-b73f-4e9a-a5fc-0ad49e23df09" /> | A smaller motor used for mechanisms that need precise movement rather than driving the robot. It can rotate attachments such as claws, arms, levers, or steering systems. |
 | <img width="212" height="229" alt="image" src="https://github.com/user-attachments/assets/c1ec9f75-01b8-435b-ac36-bae16171b76c" /> | Measures the robot's angle and rate of rotation. It helps the robot maintain direction, make accurate turns, and detect changes in orientation. |
@@ -79,21 +79,6 @@ __Elements of our robot:__
 | <img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/05de7033-4039-4728-91c0-ac1192fabdaf" /> | Allow the robot to move. The wheel supports the tire, while the rubber tire provides traction and grip on the surface. |
 
 
-
-**Proximity Sensors:**
-The robot features several strategically placed proximity sensors around its structure. These sensors enable the detection of walls and other obstacles, ensuring that the robot can navigate without collisions. The sensors work by measuring the distance to nearby objects and providing real-time data to the robot's control system.
-
-**Motors:**
-* Front Motor: This motor is responsible for the robot's turns. Upon receiving signals from the control system, it can rotate in different directions, allowing the robot to avoid obstacles and redirect its path.
-* Rear Motor: This motor drives the robot forward. It is designed to provide smooth and consistent movement, adjusting as needed based on the navigation requirements determined by the sensors.
-
-**Color Sensor:**
-The robot is also equipped with a color sensor capable of detecting specifically red and green colors. When encountering a red or green object in its path, the robot's control system activates an evasion routine to avoid these objects, ensuring safe and uninterrupted navigation.
-
-**Gyroscope Sensor:**
-To enhance its navigation capability and ensure it follows a precise trajectory, the robot includes a gyroscope sensor. This sensor measures the robot's orientation and turns. The control system uses gyroscope data to perform up to three complete turns before stopping. This feature is essential for tasks requiring cyclical navigation or following specific patterns.
-
-**Functionality:**
 Together, these components allow the robot to navigate autonomously and efficiently in complex environments. Upon starting, the robot moves forward, using its proximity sensor to detect walls and adjust its trajectory through controlled turns by the front motor. Simultaneously, it monitors its surroundings for red and green objects to evade them. The gyroscope ensures the robot can make precise turns and count up to three turns before stopping, completing its operation cycle.
 
 
