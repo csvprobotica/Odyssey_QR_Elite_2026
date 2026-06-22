@@ -70,13 +70,13 @@ __Elements of our robot:__
 
 | Folder | Technical Content | Detailed Documentation |
 |--------------|--------------|--------------|
-| <img width="218" height="195" alt="Captura de pantalla 2026-06-19 192013" src="https://github.com/user-attachments/assets/7fa64fa6-56ba-4920-9961-54fe46f395bb" /> | Fila 1 Col 2 | Fila 1 Col 3 |
-| <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/45693253-1d50-4c1d-8224-06d5855671ae" /> | Fila 2 Col 2 |
+| <img width="218" height="195" alt="Captura de pantalla 2026-06-19 192013" src="https://github.com/user-attachments/assets/7fa64fa6-56ba-4920-9961-54fe46f395bb" /> | Provides movement and power to our robot. It rotates wheels or mechanisms with precise speed and angle control. |
+| <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/45693253-1d50-4c1d-8224-06d5855671ae" /> | Detects colors, reflected light, and ambient light. Used for color recognition. |
 | <img width="176" height="174" alt="image" src="https://github.com/user-attachments/assets/ab8529d3-1e2d-4835-81cb-792ff02cb0c8" /> | The robot features several strategically placed proximity sensors around its structure. These sensors enable the detection of walls and other obstacles, ensuring that the robot can navigate without collisions. The sensors work by measuring the distance to nearby objects and providing real-time data to the robot's control system. |
-| <img width="288" height="192" alt="image" src="https://github.com/user-attachments/assets/2e7c3e37-b73f-4e9a-a5fc-0ad49e23df09" /> | Fila 2 Col 2 |
-| <img width="212" height="229" alt="image" src="https://github.com/user-attachments/assets/c1ec9f75-01b8-435b-ac36-bae16171b76c" /> | Fila 2 Col 2 |
-| <img width="135" height="130" alt="image" src="https://github.com/user-attachments/assets/24de71b7-7560-423b-8d2f-dcb212fed6e8" /> |
-| <img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/05de7033-4039-4728-91c0-ac1192fabdaf" /> | 
+| <img width="288" height="192" alt="image" src="https://github.com/user-attachments/assets/2e7c3e37-b73f-4e9a-a5fc-0ad49e23df09" /> | A smaller motor used for mechanisms that need precise movement rather than driving the robot. It can rotate attachments such as claws, arms, levers, or steering systems. |
+| <img width="212" height="229" alt="image" src="https://github.com/user-attachments/assets/c1ec9f75-01b8-435b-ac36-bae16171b76c" /> | Measures the robot's angle and rate of rotation. It helps the robot maintain direction, make accurate turns, and detect changes in orientation. |
+| <img width="135" height="130" alt="image" src="https://github.com/user-attachments/assets/24de71b7-7560-423b-8d2f-dcb212fed6e8" /> | The "brain" of our robot. Runs the program, processes sensor data, controls motors, and stores code. |
+| <img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/05de7033-4039-4728-91c0-ac1192fabdaf" /> | Allow the robot to move. The wheel supports the tire, while the rubber tire provides traction and grip on the surface. |
 
 
 
