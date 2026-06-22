@@ -36,8 +36,7 @@ Each folder contains comprenhensive README documentation. Our robot is an innova
 👥 THE TEAM
 ====
 Odyssey Team is formed by passionate students aspiring to become future engineers, guided by a coach. This is our first year competing in the WRO Future Engineers category, and each member contributes unique expertise to the project. 
-insert (picture)
-insert (picture)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/604b1b52-5f10-41db-bc45-67f3e3dcb7e3" />
 
 __Members__
 - Irene Vásquez
@@ -59,7 +58,6 @@ __Coach__
 - Pedro Corrales
   * _Role:_ Team Coach
   * _Background:_ Colegio San Vicente de Paúl
-  * _Born:_
 
 🎯 COMPONENTS OF THE ROBOT
 ====
