@@ -1,6 +1,6 @@
 Team's photos
 ====
 
-This directory contains two pictures of our team for this competition, one normal and the other funny.
+This folder contains official photos of Team Odyssey, showcasing our team spirit and collaboration during the WRO 2026 Future Engineers project.
 
-The _HypeTech_ team is integrated by Guillermo Espinosa, Angel Herrera and Jesus Murillo, who represent Colegio San Vicente de Paúl in this Future Engineers competition.
+<img width="1600" height="1200" alt="BEST TEAM" src="https://github.com/user-attachments/assets/3f609348-c27d-441e-bc03-bb88cf8f2e77" />
