@@ -1,5 +1,6 @@
 ## Models Documentation
-This directory contains the 3D modeling files for the construction of our robot.  To run the 3D modeling files requires the [`Studio 2.0`](https://www.bricklink.com/v3/studio/download.page) application, which allows us to build, render and create instructions.
+This repository includes the full set of 3D CAD models and production files for Odyssey QR Elite’s WRO 2026 Future Engineers robot. Every mechanical element was uniquely engineered and fabricated by our team to realize the vision of building one of the smallest autonomous vehicles in the world while ensuring peak efficiency.
+This documentation was last revised on ......
 
 ## Robot 3D Assembly
 Here is a view of the robot design modeled in 3D.
