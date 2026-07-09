@@ -6,5 +6,5 @@ This documentation was last revised on ......
 Here is a view of the robot design modeled in 3D.
 
 ![Regular](https://github.com/csvprobotica/HypeTech/blob/main/models/3D_Model.png)
-
+![Regular](https://github.com/csvprobotica/Odyssey_QR_Elite_2026/blob/main/models/ROBOT_ODYSSEY.png)
 ## ROBOT
