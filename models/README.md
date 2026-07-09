@@ -6,3 +6,5 @@ This documentation was last revised on ......
 Here is a view of the robot design modeled in 3D.
 
 ![Regular](https://github.com/csvprobotica/HypeTech/blob/main/models/3D_Model.png)
+
+## ROBOT
